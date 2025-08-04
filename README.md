@@ -41,8 +41,11 @@ ML-powered CLV prediction using SQL, Python, and classification algorithms.
 
 ---
 
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedantAvhad&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantAvhad&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantAvhad&show_icons=true&theme=tokyonight" alt="Vedant's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantAvhad&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
 
 
 <!--
