@@ -1,6 +1,54 @@
-## Hi there 👋
+# Hi there 👋 I'm Vedant Avhad  
+
+🚀 **Full-Stack Developer | Data Science & Machine Learning Enthusiast**  
+📍 Navi Mumbai, India | 🎓 BTech IT @ VJTI Mumbai (2021–2025)  
+
+---
+
+## 💡 About Me
+- 💻 Passionate about building scalable **MERN stack applications** and solving real-world problems using **Data Science**.  
+- 🤖 Experienced in **AI/ML projects**, including NLP, computer vision, and predictive analytics.  
+- 🌱 Always learning new technologies and contributing to open-source projects.  
+- 🎯 Goal: To work on impactful projects that combine **software engineering** and **data-driven decision-making**.  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** C++, JavaScript, Python, SQL  
+**Frameworks & Libraries:** React.js, Node.js, Express.js, Next.js, Bootstrap, TensorFlow, PyTorch  
+**Data Tools:** Tableau, Power BI, Pandas, NumPy, Matplotlib, Seaborn  
+**Developer Tools:** Git, GitHub, MongoDB, Postman, VS Code  
+
+---
+
+## 📌 Featured Projects
+<!--
+### [🛍 E-Commerce Website (MERN + Razorpay/Stripe)](https://github.com/VedantAvhad/ecommerce)
+A full-stack shopping platform with secure authentication, admin dashboard, and integrated payment gateway.  
+-->
+
+### [🎯 AI-Powered Mock Interview](https://github.com/VedantAvhad/AI-Based-Mock-Interview)
+AI-driven interview assistant analyzing video, audio, and text to give real-time feedback.  
+
+### [📊 Customer Lifetime Value Prediction](https://github.com/VedantAvhad/CLV_Prediction)
+ML-powered CLV prediction using SQL, Python, and classification algorithms.
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/vedant-avhad-bab1bb28a/)  
+- 📧 **vedantavhad98@gmail.com**
+
+---
+
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedantAvhad&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantAvhad&layout=compact&theme=tokyonight)
+
 
 <!--
+
+- [Portfolio Website](https://yourportfolio.com)  
+
 **VedantAvhad/VedantAvhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
