@@ -14,10 +14,10 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages:** C++, JavaScript, Python, SQL  
+**Languages:** C++, Java, JavaScript, Python, SQL  
 **Frameworks & Libraries:** React.js, Node.js, Express.js, Next.js, Bootstrap, TensorFlow, PyTorch  
 **Data Tools:** Tableau, Power BI, Pandas, NumPy, Matplotlib, Seaborn  
-**Developer Tools:** Git, GitHub, MongoDB, Postman, VS Code  
+**Developer Tools:** Git, GitHub, MongoDB, PostgreSQL, Postman, VS Code  
 
 ---
 
